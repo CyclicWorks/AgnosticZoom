@@ -1,0 +1,13 @@
+{
+    "TR-1M-V010": {
+        "version": "0.1.0",
+        "duration_sec": 2592000,
+        "notes": "1-month trial version."
+    },
+    "FL-IN-V010": {
+        "version": "0.1.0",
+        "duration_sec": 0,
+        "notes": "Indefinite full version."
+    }
+
+}
