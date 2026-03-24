@@ -7,7 +7,7 @@
 ![alt text](https://i.imgur.com/r5470G0.png)
 # Agnostic Zoom Youtube Video
 
-[https://www.youtube.com/watch?v=CfQTi9xB2i8]([http://example.com](https://www.youtube.com/watch?v=CfQTi9xB2i8))
+[https://www.youtube.com/watch?v=CfQTi9xB2i8](https://www.youtube.com/watch?v=CfQTi9xB2i8)
 
 [![Agnostic Zoom](https://img.youtube.com/vi/CfQTi9xB2i8/0.jpg)](https://www.youtube.com/watch?v=CfQTi9xB2i8)
 <br><br>
