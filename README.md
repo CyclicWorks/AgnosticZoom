@@ -6,5 +6,8 @@
 <br><br><br>1/2 Zoom selection. Hotkey press displays the chosen screen zoomed into the middle region (half in each dimension of the screen). The source screen can still be controlled in real time. <br><br><br>
 ![alt text](https://i.imgur.com/r5470G0.png)
 # Agnostic Zoom Youtube Video
+
+[https://www.youtube.com/watch?v=CfQTi9xB2i8]([http://example.com](https://www.youtube.com/watch?v=CfQTi9xB2i8))
+
 [![Agnostic Zoom](https://img.youtube.com/vi/CfQTi9xB2i8/0.jpg)](https://www.youtube.com/watch?v=CfQTi9xB2i8)
 <br><br>
