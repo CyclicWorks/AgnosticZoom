@@ -9,5 +9,5 @@
 
 [https://www.youtube.com/watch?v=CfQTi9xB2i8](https://www.youtube.com/watch?v=CfQTi9xB2i8)
 
-[![Agnostic Zoom](https://img.youtube.com/vi/CfQTi9xB2i8/0.jpg)](https://www.youtube.com/watch?v=CfQTi9xB2i8)
+[![Agnostic Zoom](https://i.imgur.com/qI5SqHR.png)](https://www.youtube.com/watch?v=CfQTi9xB2i8)
 <br><br>
