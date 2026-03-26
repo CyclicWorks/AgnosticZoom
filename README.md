@@ -1,4 +1,4 @@
-# Agnostic Zoom
+# [Agnostic Zoom](https://cyclicworks.github.io/AgnosticZoom/)
 <br><br>A simple tool for zooming into arbitrary applications/windows in real-time. Supported OS: Windows 10+. <br><br><br>
 ![alt text](https://i.imgur.com/FdIECHk.png)
 <br><br><br>Window selection, multiple magnification levels, arrow key control of zoom region. Easy integration to OBS, Streamlabs etc.<br><br><br>
